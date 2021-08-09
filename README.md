@@ -1,4 +1,6 @@
-### Hi there 👋
+#### ✨Hi there, I'm Matteo Ruggiero, a 21 years old IT Engineering student interested in CyberSecurity and Software Engineering✨
+
+
 
 <!--
 **mRuggi/mRuggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

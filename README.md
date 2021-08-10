@@ -16,5 +16,5 @@
 ## My 💻 TryHackMe Profile
 
 <a href="https://tryhackme.com/p/Mortino">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Mortino.png" alt="TryHackMe">
+  <img src="Mortino.png" alt="TryHackMe">
 </a>

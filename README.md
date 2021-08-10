@@ -14,7 +14,12 @@
 
 ## My GitHub Stats 📈
 
-<a href="https://github.com/mRuggi/github-readme-stats"><img alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mRuggi&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=30f2e5&bg_color=0D1117" /></a>
+<a href="https://github.com/mRuggi/github-readme-stats">
+<img alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mRuggi&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=30f2e5&bg_color=0D1117" />
+</a>
 
 ## My 💻 TryHackMe Profile  
-<img alt="THM Profile" src="https://tryhackme-badges.s3.amazonaws.com/Mortino.png">
+
+<a href="https://tryhackme.com/p/Mortino">
+<img alt="THM Profile" src="Mortino.png">
+</a>

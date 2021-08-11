@@ -7,6 +7,9 @@
   <a href="https://dev.to/mruggi">
   <img src="dev.png" width="45" /> 
   </a>
+  <a href="https://tryhackme.com/p/Mortino">
+  <img src="tryhackme.jpg" width="47.5" hspace="20" >
+  </a>
 </p>
 
 - 📚 I’m currently learning Python, Javascript
@@ -18,8 +21,6 @@
 <img alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mRuggi&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=30f2e5&bg_color=0D1117" />
 </a>
 
-## My 💻 TryHackMe Profile  
 
-<a href="https://tryhackme.com/p/Mortino">
-<img alt="THM Profile" src="Mortino.png">
-</a>
+
+

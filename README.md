@@ -21,6 +21,12 @@
 <img alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mRuggi&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=30f2e5&bg_color=0D1117" />
 </a>
 
+This user has participated in:
+
+<img src="h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="h2021.png" width="80" alt="Hacktoberfest 2021 badge" />
+
+
+
 
 
 

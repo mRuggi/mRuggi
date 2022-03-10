@@ -1,7 +1,7 @@
 ## <p align="middle"> ✨Matteo | 💻 IT Engineering student | 🌏 Naples, IT </p>
 
 <p float="left" align="middle">
-  <a href="https://www.facebook.com/matteo.ruggiero.33/">
+  <a href="https://www.facebook.com/mruggi00/">
   <img src="fb.png" width="80" />
   </a>
   <a href="https://dev.to/mruggi">

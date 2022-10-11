@@ -23,8 +23,9 @@
 
 This user has participated in:
 
-<img src="h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="h2021.png" width="80" alt="Hacktoberfest 2021 badge" />
+<img src="h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="h2021.png" width="80" alt="Hacktoberfest 2021 badge" /> <img src="h2022.png" width="80" alt="Hacktoberfest 2022 badge" />
 
+[![@mruggi's Holopin board](https://holopin.io/api/user/board?user=mruggi)](https://holopin.io/@mruggi)
 
 
 

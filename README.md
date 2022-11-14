@@ -18,7 +18,7 @@
 ## My GitHub Stats 📈
 
 <a href="https://github.com/mRuggi/github-readme-stats">
-<img alt="Matteo's Github Stats" src="https://github-readme-stats-snowy-beta.vercel.app/api?username=mRuggi&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=30f2e5&bg_color=0D1117" />
+<img alt="Matteo's Github Stats" src="https://github-readme-stats-snowy-mruggi.vercel.app/api?username=mRuggi&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=30f2e5&bg_color=0D1117" />
 </a>
 
 This user has participated in:

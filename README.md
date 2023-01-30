@@ -12,7 +12,6 @@
   </a>
 </p>
 
-- 📚 I’m currently learning Python, Javascript
 - 👓 Interested in Cyber Security and Software Engineering
 
 ## My GitHub Stats 📈

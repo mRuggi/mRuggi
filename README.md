@@ -2,10 +2,13 @@
 
 <p float="left" align="middle">
   <a href="https://dev.to/mruggi">
-  <img src="dev.png" width="45" /> 
+  <img src="logos/dev.png" width="45" /> 
   </a>
   <a href="https://tryhackme.com/p/Mortino">
-  <img src="tryhackme.jpg" width="47.5" hspace="20" >
+  <img src="logos/tryhackme.jpg" width="47.5" hspace="10" >
+  </a>
+  <a href="https://linkedin.com/in/mruggi">
+  <img src="logos/linkedin.png" width="47.5">
   </a>
 </p>
 
@@ -19,11 +22,18 @@
 
 This user has participated in:
 
-<img src="h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="h2021.png" width="80" alt="Hacktoberfest 2021 badge" /> <img src="h2022.png" width="80" alt="Hacktoberfest 2022 badge" />
+<img src="h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="h2021.png" width="80" alt="Hacktoberfest 2021 badge" /> <img src="h2022.png" width="80" alt="Hacktoberfest 2022 badge" /> <img src="h2023.png" width="90" alt="Hacktoberfest 2023 badge" />
+
+## My certifications and digital badges:
+<img src="certifications/introduction-to-cybersecurity.png"/>
+
+
+<img src="certifications/computer-hardware-basics.png"/> <img src="certifications/operating-systems-basics.png"/> 
+<img src="certifications/engaging-stakeholders-for-success.png"/> 
+
+
 
 [![@mruggi's Holopin board](https://holopin.io/api/user/board?user=mruggi)](https://holopin.io/@mruggi)
-
-
 
 
 

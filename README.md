@@ -24,15 +24,6 @@ This user has participated in:
 
 <img src="h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="h2021.png" width="80" alt="Hacktoberfest 2021 badge" /> <img src="h2022.png" width="80" alt="Hacktoberfest 2022 badge" /> <img src="h2023.png" width="90" alt="Hacktoberfest 2023 badge" />
 
-## My certifications and digital badges:
-<img src="certifications/introduction-to-cybersecurity.png"/>
-
-
-<img src="certifications/computer-hardware-basics.png"/> <img src="certifications/operating-systems-basics.png"/> 
-<img src="certifications/engaging-stakeholders-for-success.png"/> 
-
-
-
 [![@mruggi's Holopin board](https://holopin.io/api/user/board?user=mruggi)](https://holopin.io/@mruggi)
 
 

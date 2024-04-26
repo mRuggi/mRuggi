@@ -1,4 +1,4 @@
-## <p align="middle"> ✨Matteo | 💻 IT Engineering student | 🌏 Naples, IT </p>
+## <p align="middle"> ✨Matteo | 💻 Cyber Security Specialist  | 🌏 Naples, IT </p>
 
 <p float="left" align="middle">
   <a href="https://dev.to/mruggi">

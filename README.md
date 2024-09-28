@@ -1,6 +1,9 @@
 ## <p align="middle"> ✨Matteo | 💻 Cyber Security Specialist  | 🌏 Naples, IT </p>
 
 <p float="left" align="middle">
+<a href="https://g.dev/mruggi">
+  <img src="logos/gdev.png" width="47.5">
+  </a>
   <a href="https://dev.to/mruggi">
   <img src="logos/dev.png" width="45" /> 
   </a>
@@ -22,7 +25,8 @@
 
 This user has participated in:
 
-<img src="h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="h2021.png" width="80" alt="Hacktoberfest 2021 badge" /> <img src="h2022.png" width="80" alt="Hacktoberfest 2022 badge" /> <img src="h2023.png" width="90" alt="Hacktoberfest 2023 badge" />
+<img src="logos/h2020.png" width="80" alt="Hacktoberfest 2020 badge" /> <img src="logos/h2021.png" width="80" alt="Hacktoberfest 2021 badge" /> <img src="logos/h2022.png" width="80" alt="Hacktoberfest 2022 badge" /> <img src="logos/h2023.png" width="90" alt="Hacktoberfest 2023 badge" />
+<img src="logos/h2024.png" width="80" alt="Hacktoberfest 2024 badge" />
 
 [![@mruggi's Holopin board](https://holopin.io/api/user/board?user=mruggi)](https://holopin.io/@mruggi)
 

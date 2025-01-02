@@ -7,7 +7,7 @@
   <a href="https://dev.to/mruggi">
   <img src="logos/dev.png" width="45" /> 
   </a>
-  <a href="https://tryhackme.com/p/Mortino">
+  <a href="https://tryhackme.com/p/mRuggi">
   <img src="logos/tryhackme.jpg" width="47.5" hspace="10" >
   </a>
   <a href="https://linkedin.com/in/mruggi">
